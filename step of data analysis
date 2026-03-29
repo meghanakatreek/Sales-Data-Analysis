@@ -1,0 +1,15 @@
+sales-data-analysis-powerbi/
+│
+├── data/
+│   └── sales_data.xlsx
+│
+├── dashboard/
+│   └── sales_dashboard.pbix
+│
+├── docs/
+│   └── project_report.pdf
+│
+├── images/
+│   └── dashboard_screenshot.png
+│
+└── README.md
