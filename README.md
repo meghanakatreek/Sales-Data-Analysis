@@ -10,5 +10,4 @@ Overview
 Dataset used
 sales_data_sample
 
-Dashbroard Interaction
 
