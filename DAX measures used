@@ -1,0 +1,10 @@
+Total Sales:
+SUM(Sales_Data[Sales])
+Total Profit:
+SUM(Sales_Data[Profit])
+Total Orders:
+COUNT(Sales_Data[Order ID])
+Profit Margin:
+DIVIDE([Total Profit], [Total Sales]) * 100
+Product Rank:
+RANKX(ALL(Sales_Data[Product]), [Total Sales], , DESC)
