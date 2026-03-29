@@ -8,6 +8,10 @@ Overview
 .This project focuses on analyzing sales data to evaluate business performance using an interactive dashboard built in Power BI. The objective is to transform raw transactional data into meaningful insights that support data-driven decision-making.
 
 Dataset used
-sales_data_samplefeed18356552108b785319d1632f427970609d47
+sales_data_sample
+
+Dashboard Preview
+Output.jpeg
+
 
 
