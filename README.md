@@ -10,7 +10,9 @@ Overview
 Dataset used
 . Sales_Data_sample
 
-sales_data_sample
+Dashboard Interaction
+. View Sales Data Analysis Dashboard
+
 ![Output](https://github.com/user-attachments/assets/3c763a29-4641-4ff2-bc31-45056de1c502)
 
 Key Power BI Features Used
